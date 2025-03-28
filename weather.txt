@@ -1,0 +1,16 @@
+Wind Speed: 13,96 km/h
+Humidity: 51,8 % Humidity
+Pressure: 1023,45 hPa
+Temperature: 19,33 °C
+Pressure: 926,55 hPa
+Temperature: 15,20 °C
+Humidity: 50,2 % Humidity
+Wind Speed: 0,09 km/h
+Pressure: 1045,45 hPa
+Humidity: 64,7 % Humidity
+Temperature: 20,61 °C
+Wind Speed: 17,10 km/h
+Humidity: 154,7 % Humidity
+Temperature: 25,93 °C
+Pressure: 804,73 hPa
+Wind Speed: 3,84 km/h
